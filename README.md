@@ -1,2 +1,2 @@
-# MySoloLearnNotes
-Notes for myself for studying purposes
+# My sololearn.com Notes
+Notes for myself for studying purposes, currently for python .
